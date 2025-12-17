@@ -1,3 +1,5 @@
+![demo](./infexec.gif)
+
 This is a OCaml CLI utility. It is a work in progress. You use it like this:
 
 $ main.exe yarn dev
